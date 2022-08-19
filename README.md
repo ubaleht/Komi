@@ -43,3 +43,6 @@ If you use this material, please publish reference to the corpus' repository: ht
 |YuVV-39 (F)|1954|Kiber-spassk|Astyrovka, Gorkovsky District|both parents: Astyrovka|2 min 12 s|16.07.2022|
 |Private Speaker 01 (M)|1947|Kirsanovo|No data|No data|together with Private Speaker 02: 2 min 47 s|16.07.2022|
 |Private Speaker 02 (F)|1950|Kirsanovo|No data|No data|together with Private Speaker 01: 2 min 47 s|16.07.2022|
+
+## Map of Komi villages in Omsk oblast
+![Map of Komi villages in the southern part of the Omsk Oblast. Villages that were founded by the Komi, or/and in which the majority of the inhabitants were Komi, are marked in red. The villages to which the Komi live are marked in blue.](MapOfKomiVillages.png)
