@@ -44,7 +44,7 @@ If you use this material, please publish reference to the corpus' repository: ht
 |TNI-47 (M)|1947|Nikolayevka|probably in Nikolayevka|mother: Komi, father: no data|16 min 45 s|09.07.2022|
 |TNS-48 (F)|1948|Spasskoe|Spasskoe, her husband was a Komi|both parents: Komi, Spasskoe|9 min 45 s|18.07.2022|
 |TTV-57 (F)|1957|Spasskoe|Spasskoe|mother: Spasskoe, Komi, father: not Komi, but both parents spoke Komi|1 min 6 s|18.07.2022|
-|UNG-67 (F)|1957|Spasskoe|Spasskoe|both parents: Komi, Spasskoe|5 min 45 s|18.07.2022|
-|YuVV-39 (F)|1954|Kiber-spassk|Astyrovka, Gorkovsky District|both parents: Astyrovka|2 min 12 s|16.07.2022|
+|UNG-67 (F)|1967|Spasskoe|Spasskoe|both parents: Komi, Spasskoe|5 min 45 s|18.07.2022|
+|YuVV-39 (F)|1939|Kiber-spassk|Astyrovka, Gorkovsky District|both parents: Astyrovka|2 min 12 s|16.07.2022|
 |Private Speaker 01 (M)|1947|Kirsanovo|No data|No data|together with Private Speaker 02: 2 min 47 s|16.07.2022|
 |Private Speaker 02 (F)|1950|Kirsanovo|No data|No data|together with Private Speaker 01: 2 min 47 s|16.07.2022|
