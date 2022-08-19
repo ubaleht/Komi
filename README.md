@@ -14,7 +14,7 @@ Map of Komi villages in the southern part of the Omsk Oblast. Villages that were
 
 ## Speech data of Komi Lanuage
 
-https://drive.google.com/drive/folders/1csw-_n2TzQa_AQObGBJP8x-S8ZH_h9E9
+https://drive.google.com/drive/folders/1lFh9a8i793YW2LULWXLgCZbaHH1lEohp
 
 ## Video data of Komi language from Omsk Oblast:
 
