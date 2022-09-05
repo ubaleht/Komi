@@ -1,5 +1,5 @@
-# Open speech corpus of the Komi-Zyryan language
-Open speech corpus of the Komi-Zyryan language. All data in this repository are licensed under the CC BY 4.0. Audio and video material was collected in the Omsk Oblast in 2022. Audio and video material was collected in the following villages: Zolotaya Niva, Nikolayevka, Kiber-spassk, Kirsanovo, Spasskoe.
+# Open speech corpus of the Komi language
+Open speech corpus of the Komi language. All data in this repository are licensed under the CC BY 4.0. Audio and video material was collected in the Omsk Oblast in 2022. Audio and video material was collected in the following villages: Zolotaya Niva, Nikolayevka, Kiber-spassk, Kirsanovo, Spasskoe.
 
 - Zolotaya Niva - Okoneshnikovsky District, Omsk Oblast
 - Nikolayevka  - Okoneshnikovsky District, Omsk Oblast
@@ -18,7 +18,7 @@ https://drive.google.com/drive/folders/1lFh9a8i793YW2LULWXLgCZbaHH1lEohp
 
 ## Video data of Komi language from Omsk Oblast:
 
-Speaker AIA-36: https://www.youtube.com/watch?v=bKbOC1-wCWs
+Speaker AIA-36: https://www.youtube.com/watch?v=XyKblfNeuBQ
 
 If you want to get more video materials, write to the author of the repository: ivan at ubaleht dot com
 
